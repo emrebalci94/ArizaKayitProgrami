@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\bin\x64\Debug\Arıza Kayıt Programı.exe
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\bin\x64\Debug\Arıza Kayıt Programı.pdb
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form1.resources
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form2.resources
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form3.resources
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza Kayıt Programı.exe
+C:\Users\Administrator\Desktop\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza Kayıt Programı.pdb
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza Kayıt Programı.exe
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza Kayıt Programı.pdb
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\bin\x64\Debug\Arıza Kayıt Programı.exe
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\bin\x64\Debug\Arıza Kayıt Programı.pdb
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form1.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form2.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form3.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form4.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Form5.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\Arıza_Kayıt_Programı.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\Stajer\Emre Balcı\Arıza Kayıt Programı\Arıza Kayıt Programı\obj\x64\Debug\GenerateResource.write.1.tlog
